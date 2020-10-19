@@ -57,7 +57,7 @@ namespace SKB.NavigatorExtension
         /// <summary>
         /// Текст названия команды «StartListsOfDocuments».
         /// </summary>
-        public const String Command_Name_StartListsOfDocuments_Folder = "Запуск партий в производство ";
+        public const String Command_Name_StartListsOfDocuments_Folder = "Запуск партий в производство!";
         /// <summary>
         /// Текст описания команды «StartListsOfDocuments».
         /// </summary>
